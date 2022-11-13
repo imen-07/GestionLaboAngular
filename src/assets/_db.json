@@ -1,0 +1,52 @@
+{
+    "members": [
+        {
+            "id" : "12345",
+            "cin" : "11111111",
+            "name": "ali",
+            "createdDate" : "66",
+            "cv" :"ali",
+            "type" : "00"
+          },
+      
+          {
+            "id": "67890",
+            "cin" : "22222222",
+            "name" : "med",
+            "createdDate" : "12",
+            "cv" :"med",
+            "type" : "11"
+          }
+    ],
+
+  "articles": [
+      {
+          "Id" : "1111",
+          "type" : "art1",
+          "Titre": "ART1",
+          "lien" : "lien1",
+          "Date" :"07/11",
+          "SourcePDF" : "pdf",
+          "auteur" : ""
+        },
+    
+        {
+          "Id" : "2222",
+          "type" : "art2",
+          "Titre": "ART2",
+          "lien" : "lien2",
+          "Date" :"07/11",
+          "SourcePDF" : "pdf",
+          "auteur" : ""
+        },
+        {
+          "Id" : "3333",
+          "type" : "art3",
+          "Titre": "ART3",
+          "lien" : "lien3",
+          "Date" :"07/11",
+          "SourcePDF" : "pdf",
+          "auteur" : ""
+        }
+  ]
+}
